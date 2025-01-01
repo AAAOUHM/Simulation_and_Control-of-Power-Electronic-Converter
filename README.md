@@ -6,6 +6,6 @@ We have done the component sizing and  open loop and clolsed loop simulation of 
 4) dual active bridge bidirectional converter
 5) resonant llc converter
 6) phase shifted full bridge converter
-7)A full lab report is present. Inside each folder the problem or design requirement is given.
+7) A full lab report is present. Inside each folder the problem or design requirement is given.
 1st run the matlab file and then run the simulink model to see the simulations. 
 also we have done pid control and type 2 compensator design for some converters.
